@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "docs:dev": "vuepress dev .",
-    "docs:build": "/vercel/path0/node_modules/.bin/vuepress build ."
+    "docs:build": "node_modules/.bin/vuepress build ."
   },
   "license": "MIT",
   "devDependencies": {
